@@ -5,36 +5,36 @@ weight = 4.0
 chapter = true
 +++
 
-# 4.0 Electronics
+# 4.0 Elektronik
 
-Electronics is the backbone of the robot. Without electronics, the robot would not be able to move, sense, or communicate. Electronics is the most complex part of the robot. Students will learn how to design, document, assemble, and test electronic circuits. Students will also learn how to use the tools and equipment needed to build these circuits. There are many different types of electronics that can be used on a robot. Some of these include:
+Elektronik parçalar robotun adeta iskeletini oluştururlar. Elektronikler olmadan robot hareket edemez, algılayamaz veya haberleşemez. Elektronikler robotun en karmaşık parçalarıdır. Öğrenciler bu dokümanlarda nasıl tasarım yapılır, dokümantasyon hazırlanır, parçalar birleştirilir ve elektronik devreler nasıl test edilir bunu öğrenecekler. Robotlarda kullanılabilecek birçok farklı elektronik parça vardır. Bunlardan bazıları:
 
-- Motors
-- Sensors
-- Relays
-- Switches
-- Lights
-- Cameras
-- Microcontrollers
-- Power Distribution
-- HMIs (Human Machine Interfaces)
-- Communication Hardware
+- Motorlar
+- Sensörler
+- Röleler
+- Anahtarlar
+- Işıklar
+- Kameralar
+- Mikrokontrolcüler
+- Güç Dağıtıcılar
+- İMA'lar (İnsan Makine Arayüzleri)
+- Haberleşme Donanımları
 
-Below is an outline of the topics that will be covered in this chapter.
+Bu bölümde ele alınan başlıklar aşağıdadır.
 
-### Contents for this Chapter
+### Bu Bölümün İçeriği
 
-| Order | Page Title | Time Estimate |
+| Sıralama | Sayfa Başlığı | Öngörülen Okuma Süresi |
 | --- | --- | --- |
-| 1. | [What is Electronics?](/electronics/what-is-electronics/) | 5 minutes |
-| 2. | [Electronics Tools](/electronics/electronics-tools/) | 10 minutes |
-| 3. | [Electronics Components](/electronics/electronics-components/) | 10 minutes |
-| 4. | [Electronics Circuits](/electronics/electronics-circuits/) | 10 minutes |
-| 5. | [Electronics Safety](/electronics/electronics-safety/) | 10 minutes |
-| 6. | [Electronics Assembly](/electronics/electronics-assembly/) | 10 minutes |
-| 7. | [Electronics Testing](/electronics/electronics-testing/) | 10 minutes |
-| 8. | [Electronics Documentation](/electronics/electronics-documentation/) | 10 minutes |
-| 9. | [Electronics Troubleshooting](/electronics/electronics-troubleshooting/) | 10 minutes |
-| 10. | [Electronics Resources](/electronics/electronics-resources/) | 10 minutes |
-| 11. | [Electronics Glossary](/electronics/electronics-glossary/) | 10 minutes |
-|     | Total Estimated Time | 110 minutes |
+| 1. | [Elektronik Nedir?](/electronics/what-is-electronics/) | 5 dakika |
+| 2. | [Elektronik Aletler](/electronics/electronics-tools/) | 10 dakika |
+| 3. | [Elektronik Komponentler](/electronics/electronics-components/) | 10 dakika |
+| 4. | [Elektronik Devreler](/electronics/electronics-circuits/) | 10 dakika |
+| 5. | [Elektronik Güvenliği](/electronics/electronics-safety/) | 10 dakika |
+| 6. | [Elektroniklerin Birleştirilmesi](/electronics/electronics-assembly/) | 10 dakika |
+| 7. | [Elektroniklerin Test Edilmesi](/electronics/electronics-testing/) | 10 dakika |
+| 8. | [Elektronik Dokümanları](/electronics/electronics-documentation/) | 10 dakika |
+| 9. | [Elektronik Arıza Tespiti](/electronics/electronics-troubleshooting/) | 10 dakika |
+| 10. | [Elektronik İle İlgili Kaynaklar](/electronics/electronics-resources/) | 10 dakika |
+| 11. | [Elektronik Terimler Sözlüğü](/electronics/electronics-glossary/) | 10 dakika |
+|     | Öngörülen Toplam Okuma Süresi | 110 dakika |
