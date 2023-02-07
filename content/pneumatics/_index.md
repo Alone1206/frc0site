@@ -8,21 +8,21 @@ author = 'Mr. Siefen'
 editors = ''
 +++
 
-# 5.0 Pneumatics
+# 5.0 Pnömatik
 
-## What are Pneumatics?
+## Pnömatik Nedir?
 
-In the context of FRC pneumatics refers to the use of compressed air to power mechanisms. This can be used to extend or retract a piston, or to move a piston in a linear direction. Pneumatic systems can be confusing to newcomers. This chapter will cover the basics of pneumatics and how to use them in FRC.
+FRC bağlamında, mekanizmalara güç vermek için basınçlı havanın kullanılması anlamına gelir. Bu, bir pistonu uzatmak veya geri çekmek veya bir pistonu doğrusal bir yönde hareket ettirmek için kullanılabilir. Pnömatik sistemler yeni başlayanlar için kafa karıştırıcı olabilir. Bu bölüm, pnömatiğin temellerini ve bunların FRC'de nasıl kullanılacağını ele alıyor.
 
-### Contents for this Chapter
+### Bu Bölümün İçeriği
 
-| Order | Page Title | Time Estimate |
+| Sıralama | Sayfa Başlığı | Öngörülen Okuma Süresi |
 | --- | --- | --- |
-| 1. | [What are Pneumatics?](/pneumatics/what-are-pneumatics/) | 5 minutes |
-| 2. | [What are Pneumatic Components?](/pneumatics/pneumatic-components/) | 10 minutes |
-| 3. | [Pneumatic Safety](/pneumatics/pneumatic-safety/) | 5 minutes |
-| 4. | [How to Setup a Pneumatic System](/pneumatics/pneumatic-systems/) | 20 minutes |
-| 5. | [Pneumatic Control](/pneumatics/pneumatic-control/) | 20 minutes |
-| 6. | [Pneumatic Troubleshooting](/pneumatics/pneumatic-troubleshooting/) | 10 minutes |
-| 7. | [Pneumatic Resources](/pneumatics/pneumatic-resources/) | 5 minutes |
-|    | Total Estimated Time | 75 minutes |
+| 1. | [Pnömatik Nedir?](/pneumatics/what-are-pneumatics/) | 5 dakika |
+| 2. | [Pnömatik Komponentler Nelerdir?](/pneumatics/pneumatic-components/) | 10 dakika |
+| 3. | [Pnömatik Sistem Güvenliği](/pneumatics/pneumatic-safety/) | 5 dakika |
+| 4. | [Pnömatik Sistemler Nasıl Kurulur](/pneumatics/pneumatic-systems/) | 20 dakika |
+| 5. | [Pnömatiklerin Kontrolü](/pneumatics/pneumatic-control/) | 20 dakika |
+| 6. | [Pnömatik Sistemlerde Arıza Tespiti](/pneumatics/pneumatic-troubleshooting/) | 10 dakika |
+| 7. | [Pnömatik İçin Kaynaklar](/pneumatics/pneumatic-resources/) | 5 dakika |
+|    | Öngörülen Toplam Okuma Süresi | 75 dakika |
