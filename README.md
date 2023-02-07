@@ -1,3 +1,4 @@
+BU TÜRKÇE FRC0 DOKÜMANIDIR. THIS IS TURKISH FRC0 DOCUMENT. PLEASE REFER TO ORIGINALFRC0 DOCUMENTS.
 ## What is FRC0?
 
 FRC0 is a website for FIRST Robotics Competition teams and mentors to share their knowledge and experience with other teams. It is a place to find information about the FRC game, build season, and competition season. It is also a place to find information about the FRC program in general, such as how to start a team, how to run a team, and how to run a competition. The website is open source and is hosted by [Mr. Siefen's Robot Emporium](https://mrsiefensrobotemporium.com). Anyone can contribute to the website by adding new content or editing existing content.
